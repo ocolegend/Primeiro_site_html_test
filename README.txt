@@ -1,8 +1,7 @@
 # Primeiro_site_html_test
 Um test de layout usando html e css
 
-## Esses arquivos trazem um prototipo de um site ultilizando vários comandos dentro do
-HTML e CSS.
+## Esses arquivos trazem um prototipo de um site ultilizando vários comandos dentro do HTML e CSS.
 
 ### Onde abordamos inicialmente a:
 
